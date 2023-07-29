@@ -17,8 +17,8 @@ class WebConfig {
 //    @Bean
 //    public UserDetailsService userDetailsService() {
 //        UserDetails userDetails = User.builder().
-//                username("DURGESH")
-//                .password(passwordEncoder().encode("DURGESH")).roles("ADMIN").
+//                username("Abhishek")
+//                .password(passwordEncoder().encode("Abhishek")).roles("ADMIN").
 //                build();
 //        return new InMemoryUserDetailsManager(userDetails);
 //    }
